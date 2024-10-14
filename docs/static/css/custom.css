@@ -1,0 +1,27 @@
+@import url("https://cdn.jsdelivr.net/gh/henices/logseq-flow-nord@main/src/palettes/one-dark-pro.css");
+
+/* Styles for Auto-Hiding and Revealing on Mouse Hover for Block Properties */
+.block-content-inner:has(+.block-properties)::after {
+  padding-left: 10px;
+  color: hsl(var(--ct-accent-color));
+  font-family: var(--ls-font-family-code);
+  font-weight: bold;
+  content: "P";
+}
+
+.block-properties {
+  display: none;
+}
+
+.block-content-inner:hover~.block-properties,
+.block-properties:hover {
+  background: hsl(var(--ct-bg-color));
+  display: block;
+  width: inherit;
+  position: absolute;
+  transform: translate(0%, -10%);
+  border-radius: 2px;
+  padding: 10px;
+  border: 1px solid var(--ls-secondary-border-color);
+  z-index: 999;
+}

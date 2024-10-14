@@ -1,0 +1,10 @@
+### Feedback
+	- Probably the hardest part to track when going through the material is the vocabulary. Without prior knowledge of intervals and what is a 2nd or minor & major 3rds and how they relate to the scale is very difficult to understand what is being said for the instructions/exercises.
+		- **Example**: take the Voice Leading Guide and Tips from the ((66fee7db-1620-4c52-ae21-27bda48ccd9a)) lesson. In the guide we're given instructions for 2nd & 3rd say. Are these the scale degrees? Or more generally intervals as in minor & major 2nd & 3rds?
+		- At the very least we need a requirements syllabus or what we need to be familiar with in order to follow along.
+	- Inconsistencies between written & video format make it confusing.
+		- **Example**: in the written text we are presented with two ways to construct chord progression patterns: **strong-weak** & **T-S-D-T**. In the video, on the other hand we are presented with the **strong-weak** pattern while **T-S-D-T** is presented as used for ending the chord progression, but not its own independent construction pattern.
+		- **Example**: [Harmony for Composers (Part 2): 7th Chords - t122](https://youtu.be/DGcL9_tIjbk?t=122) has different notations compared to ((66fef062-33f7-44fa-b0c4-37bbb0fb354d)) written notes.
+	- Introduction of unexplained terms like cadences make it more confusing. It would be useful to have a glossary or at least a link to the lesson that talks about the concept.
+		- **Example**: in ((66fee7db-1620-4c52-ae21-27bda48ccd9a)), we're told about cadences finishing the chord progressions, but they're introduced later in the **What is a Cadence?** lesson. It would be useful to have a link to that lesson or just a short explanation for the purpose of the lesson, or just skip the concept altogether if it isn't a central theme of the lesson.
+	- Reconsider the order? Why are speaking about `V7` chords in the cadences lesson and afterwards we have the lesson on 7th chords?

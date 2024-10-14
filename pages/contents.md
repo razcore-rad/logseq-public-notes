@@ -1,0 +1,10 @@
+- ![avatar01.png](../assets/avatar01_1728934306616_0.png){:width 64}
+- These are my public notes for different topics I have as a hobby. It's a work-in-progress.
+	- [[audio/guitar]]
+		- Notes/summaries on #riffs & #songs from [Justin Guitar](https://www.justinguitar.com) and [GuitarZero2Hero](https://www.guitarzero2hero.com).
+		- For some of them I wrote tabs with [MuseScore Studio](https://musescore.org/en) and attached the exported audio files for reference.
+	- [[audio/tabletop-academy-music-theory-harmony]]
+		- Notes for [Tabletop Academy - Music Theory & Harmony I: Functional Harmony](https://www.tabletopcomposer.com/academy).
+		- I include my solutions to the assignments in audio & MIDI format as well as feedback for the author.
+	- [[recipes]]
+		- Nicely organized delicious meals minly from [Food Impromtu](https://www.youtube.com/@FoodImpromptu).
