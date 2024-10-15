@@ -110,11 +110,13 @@
 	- ![justinguitar-metallica-enter-sandman-100.mp3](../assets/justinguitar-metallica-enter-sandman-100_1722674078527_0.mp3)
 	  tempo:: 100
 	- ![justinguitar-metallica-enter-sandman-1.png](../assets/justinguitar-metallica-enter-sandman-1_1722716736792_0.png)
-- [Neil Young - Cortez the Killer](https://www.justinguitar.com/songs/neil-young-cortez-the-killer-easy-chords-tabs-guitar-lesson-bs-290) #song #grade1
+- [Neil Young - Cortez the Killer](https://www.justinguitar.com/advanced_search?q=Neil%20Young%20-%20Cortez%20the%20Killer) #song #grade1
   logseq.order-list-type:: number
+  collapsed:: true
 	- {{video https://youtu.be/h-riy-mHKIs}}
 	- Time: 4/4
 	- Progression: || Em | D ||: Am :||
+	  collapsed:: true
 		- ((670d00cd-a0a9-4524-bdcc-218dd9be864f)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf4f6-d495-41bc-b566-136589bf467e))
 	- Strums
 	  ```
@@ -124,7 +126,7 @@
 	  1 e + a 2 e + a 3 e + a 4 e + a
 	  D H     D     U   U D     U D U
 	  ```
-- [Nirvana - Come as You Are](https://www.justinguitar.com/guitar-lessons/riff-come-as-you-are-b2-506) #riff #grade1
+- [Nirvana - Come as You Are](https://www.justinguitar.com/advanced_search?q=Nirvana%20-%20Come%20as%20You%20Are) #riff #grade1
   logseq.order-list-type:: number
 	- ![justinguitar-nirvana-come-as-you-are.mp3](../assets/justinguitar-nirvana-come-as-you-are_1722516543322_0.mp3)
 	  tempo:: 100
