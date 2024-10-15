@@ -227,7 +227,7 @@
 	- ![justinguitar-the-doors-break-on-through.mp3](../assets/justinguitar-the-doors-break-on-through_1722530529680_0.mp3)
 	  tempo:: 120
 	- ![justinguitar-the-doors-break-on-through-1.png](../assets/justinguitar-the-doors-break-on-through-1_1722716656220_0.png)
-- [The Weekend - Call Out My Name](https://www.justinguitar.com/songs/the-weeknd-call-out-my-name-chords-tabs-guitar-lesson-sg-26) #song #grade1
+- [The Weekend - Call Out My Name](https://www.justinguitar.com/songs/the-weeknd-call-out-my-name-chords-tabs-guitar-lesson-sg-26) #song #grade2
   logseq.order-list-type:: number
 	- Time Signature: 6/8
 	- Progression: ||: Am :||: Em :||
