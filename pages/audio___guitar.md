@@ -297,7 +297,7 @@
 	- ![justinguitar-white-stripes-seven-nation-army-1.png](../assets/justinguitar-white-stripes-seven-nation-army-1_1722716183365_0.png)
 - Notes
 	- ```sh
-	  convert -fuzz 25% -trim -border 100 -bordercolor none +repage IMAGE
+	  mogrify -fuzz 25% -trim -border 100 -bordercolor none +repage IMAGE
 	  ```
 - Templates
   collapsed:: true
