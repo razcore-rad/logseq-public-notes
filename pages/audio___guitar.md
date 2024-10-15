@@ -249,8 +249,10 @@
 	- ![justinguitar-peter-gunn-theme.mp3](../assets/justinguitar-peter-gunn-theme_1722514045790_0.mp3)
 	  tempo:: 80
 	- ![justinguitar-peter-gunn-theme-1.png](../assets/justinguitar-theme-peter-gunn-1_1722716119973_0.png)
-- [Theme - 12 Bar Blues](https://www.justinguitar.com/guitar-lessons/12-bar-blues-progressions-bg-1303) #song #grade2
+- [Theme - 12 Bar Blues Progressions](https://www.justinguitar.com/advanced_search?q=12%20Bar%20Blues%20Progressions) #song #grade2
   logseq.order-list-type:: number
+  collapsed:: true
+	- {{video https://youtu.be/rLm99QI8eWs}}
 	- Time Signature: 4/4 Swing
 	- Progressions
 		- Standard: || I I I I | IV IV I I | V IV I V ||
@@ -258,10 +260,13 @@
 		- Slow Change: || I I I I | IV IV I I | V V I I ||
 	- Keys
 		- A: I = A7, IV = D7, V = E7
+		  collapsed:: true
 			- ((670d0fd7-24f9-476a-ab8f-244168880901)) ((670d0ff2-225e-4fde-bafd-98b81ef6bccd)) ((670cff88-304b-4762-8e2f-c0612a6e8e37))
 		- E: I = E7, IV = A7, V = B7
+		  collapsed:: true
 			- ((670d0fd7-24f9-476a-ab8f-244168880901)) ((670d1047-0f52-4811-9f7e-10d311ceb4fa)) ((670d1027-22ce-40ee-8fbb-7a7e9b57fe97))
 		- G: I = G7, IV = C7, V = D7
+		  collapsed:: true
 			- ((670d107e-0c42-45ea-9c4e-81fa862d61f3)) ((670d0ff2-225e-4fde-bafd-98b81ef6bccd)) ((670d1061-ebc4-4a0b-aa3f-dea8d7f09739))
 - [Tom Waits - Chocolate Jesus](https://www.justinguitar.com/songs/tom-waits-chocolate-jesus-chords-tabs-guitar-lesson-bs-222) #song #grade1
   logseq.order-list-type:: number
