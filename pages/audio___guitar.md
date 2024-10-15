@@ -1,6 +1,5 @@
 - [America - A Horse With No Name](https://www.guitarzero2hero.com/song/2555/a-horse-with-no-name-america-guitar-lesson) #song #1.0
   logseq.order-list-type:: number
-  collapsed:: true
 	- {{video https://youtu.be/TJIskQK0SpI}}
 	- Key: Em
 	- Tempo: 124bpm
@@ -22,7 +21,6 @@
 	  D U X U D U D U
 	  ```
 	- Solo Variation
-	  collapsed:: true
 		- ![gz2h-america-a-horse-with-no-name-solo-variation.mp3](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902098791_0.mp3)
 		- ![gz2h-america-a-horse-with-no-name-solo-variation.png](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902127166_0.png){:height 630, :width 731}
 - [Bob Marley - Three Little Birds](https://www.justinguitar.com/advanced_search?q=Bob%20Marley%20-%20Three%20Little%20Birds) #song #grade1
@@ -298,7 +296,7 @@
 - Notes
 	- Trim the MuseScore Studio exported images with:
 	  ```sh
-	  for $p in (ls *.png | get name) { mogrify -fuzz 25% -trim -border 100 -bordercolor none +repage $p }
+	  mogrify -fuzz 25% -trim -border 100 -bordercolor none +repage *.png
 	  ```
 - Templates
   collapsed:: true
