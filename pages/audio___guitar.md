@@ -227,10 +227,13 @@
 	- ![justinguitar-the-doors-break-on-through.mp3](../assets/justinguitar-the-doors-break-on-through_1722530529680_0.mp3)
 	  tempo:: 120
 	- ![justinguitar-the-doors-break-on-through-1.png](../assets/justinguitar-the-doors-break-on-through-1_1722716656220_0.png)
-- [The Weekend - Call Out My Name](https://www.justinguitar.com/songs/the-weeknd-call-out-my-name-chords-tabs-guitar-lesson-sg-26) #song #grade2
+- [The Weeknd - Call Out My Name](https://www.justinguitar.com/advanced_search?q=The%20Weeknd%20Call%20Out%20My%20Name) #song #grade2
   logseq.order-list-type:: number
+  collapsed:: true
+	- {{video https://youtu.be/6MMsvaEhnOU}}
 	- Time Signature: 6/8
 	- Progression: ||: Am :||: Em :||
+	  collapsed:: true
 		- ((670d00cd-a0a9-4524-bdcc-218dd9be864f)) ((670cf4f6-d495-41bc-b566-136589bf467e))
 - [Theme - Happy Birthday](https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1105) #fingerstyle #grade2
   logseq.order-list-type:: number
