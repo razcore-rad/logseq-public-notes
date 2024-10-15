@@ -188,8 +188,10 @@
 	- ![justinguitar-red-hot-chili-peppers-californication.mp3](../assets/justinguitar-red-hot-chili-peppers-californication_1722520150183_0.mp3)
 	  tempo:: 100
 	- ![justinguitar-red-hot-chili-peppers-californication-1.png](../assets/justinguitar-red-hot-chili-peppers-californication-1_1722716340504_0.png){:height 449, :width 729}
-- [Ritchie Valens - La Bamba](https://www.justinguitar.com/guitar-lessons/la-bamba-riff-bg-1008) #riff #grade2
+- [Ritchie Valens - La Bamba](https://www.justinguitar.com/advanced_search?q=Ritchie%20Valens%20-%20La%20Bamba) #riff #grade2
   logseq.order-list-type:: number
+  collapsed:: true
+	- {{video https://youtu.be/o-SdTXIAvTE}}
 	- ![justinguitar-rithcie-valens-la-bamba.mp3](../assets/justinguitar-rithcie-valens-la-bamba_1722520909781_0.mp3)
 	  tempo:: 100
 	- ![justinguitar-rithcie-valens-la-bamba-1.png](../assets/justinguitar-rithcie-valens-la-bamba-1_1722716382741_0.png){:height 401, :width 693}
