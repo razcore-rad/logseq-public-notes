@@ -174,14 +174,17 @@
 	  ```
 - [Pulp - Common People](https://www.justinguitar.com/advanced_search?q=Pulp%20-%20Common%20People) #song #grade1
   logseq.order-list-type:: number
+  collapsed:: true
 	- {{video https://youtu.be/UHqXUYXsGwE}}
 	- Capo: 3
 	- Time Signature: 4/4
 	- Progression: ||: C % :||: G | % :||: C | % :||: G | % :||: F | % :||: C | % :|| G | % :||
 	  collapsed:: true
 		- ((670d7d7c-5fd6-4899-b6f1-7f3ca0a109b5)) ((670d7ddd-69b4-44b1-b7ab-51404bb0d6b7)) ((670d7e0a-4225-4fb5-bcd8-c0102e14d5c8))
-- [Red Hot Chili Peppers - Californication](https://www.justinguitar.com/guitar-lessons/californication-riff-b3-908) #riff #grade2
+- [Red Hot Chili Peppers - Californication](https://www.justinguitar.com/advanced_search?q=Red%20Hot%20Chili%20Peppers%20-%20Californication) #riff #grade2
   logseq.order-list-type:: number
+  collapsed:: true
+	- {{video https://youtu.be/emFaTjKbBIQ}}
 	- ![justinguitar-red-hot-chili-peppers-californication.mp3](../assets/justinguitar-red-hot-chili-peppers-californication_1722520150183_0.mp3)
 	  tempo:: 100
 	- ![justinguitar-red-hot-chili-peppers-californication-1.png](../assets/justinguitar-red-hot-chili-peppers-californication-1_1722716340504_0.png){:height 449, :width 729}
