@@ -142,8 +142,10 @@
 	- ![justinguitar-pink-floyd-wish-you-were-here-1.png](../assets/justinguitar-pink-floyd-wish-you-were-here-1_1722716296938_0.png)
 	  collapsed:: true
 		- ((670cff88-304b-4762-8e2f-c0612a6e8e37)) ((670d02a5-e34d-430b-87d0-e1ef542386c0)) ((670cfeb3-8026-4b5e-950e-fb747d9594c8))
-- [Oasis - Wonderwall (Simplified)](https://www.justinguitar.com/songs/oasis-wonderwall-chords-tabs-guitar-lesson-bs-805) #song #grade2
+- [Oasis - Wonderwall (Simplified)](https://www.justinguitar.com/advanced_search?q=Oasis%20-%20Wonderwall) #song #grade2
   logseq.order-list-type:: number
+  collapsed:: true
+	- {{video https://youtu.be/ukjfq1iVOGA}}
 	- Capo: 2
 	- Time Signature: 4/4
 	- Progression
@@ -153,6 +155,7 @@
 		- Bridge: ||: Dadd9 Esus4 | F\#m7 : || Dadd9 Esus4 | A Esus4/G# F\#m7 F\#m7 ||: B7sus4 :||
 		- Chorus: ||: Dadd9 F\#m7 | A F\#m7 :|| (x4)
 		- Arrangement: || Verse-Intro | Verse | Verse-Intro | Verse-Variation | Bridge | Chorus ||
+		  collapsed:: true
 			- ((670cf9e7-4cd7-44f3-b0af-2e365ee24ec0)) ((670d06a8-d821-416d-97c8-9c84fa271375)) ((670d06c7-36b1-430e-8f8e-36f7f2da180e)) ((670d05cf-7f9d-4b3e-8767-faed4f88e259)) ((670d092f-9107-49a5-a3a7-b5dea71a7bdc)) ((670d0656-576d-479c-81b2-1abf6e7b505c))
 	- Strums
 	  ```
@@ -169,11 +172,13 @@
 	                |             Lift fingers 1&2
 	                Chord change
 	  ```
-- [Pulp - Common People](https://www.justinguitar.com/songs/pulp-common-people-chords-tabs-guitar-lesson-bs-109) #song #grade1
+- [Pulp - Common People](https://www.justinguitar.com/advanced_search?q=Pulp%20-%20Common%20People) #song #grade1
   logseq.order-list-type:: number
+	- {{video https://youtu.be/UHqXUYXsGwE}}
 	- Capo: 3
 	- Time Signature: 4/4
 	- Progression: ||: C % :||: G | % :||: C | % :||: G | % :||: F | % :||: C | % :|| G | % :||
+	  collapsed:: true
 		- ((670d7d7c-5fd6-4899-b6f1-7f3ca0a109b5)) ((670d7ddd-69b4-44b1-b7ab-51404bb0d6b7)) ((670d7e0a-4225-4fb5-bcd8-c0102e14d5c8))
 - [Red Hot Chili Peppers - Californication](https://www.justinguitar.com/guitar-lessons/californication-riff-b3-908) #riff #grade2
   logseq.order-list-type:: number
