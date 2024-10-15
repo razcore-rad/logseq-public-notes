@@ -75,6 +75,7 @@
 - [Green Day - Good Riddance (Time of Your Life)](https://www.justinguitar.com/advanced_search?q=Green%20Day%20-%20Good%20Riddance%20(Time%20of%20Your%20Life)) #song #grade2
   logseq.order-list-type:: number
   collapsed:: true
+	- {{video https://youtu.be/uD_iA34SmgM}}
 	- Time Signature: 4/4
 	- Progression: ||: G | G | Cadd9 | Dsus4/E :||: Em7 | Dsus4/E | Cadd9 | G :||: Em | G :|| Em7 | Dsus4/E | G ||
 	  collapsed:: true
@@ -86,6 +87,7 @@
 	  ```
 - [John Mayall - All Your Love](https://www.justinguitar.com/songs/john-mayall-all-your-love-chords-tabs-guitar-lesson-sg-029) #song #grade1
   logseq.order-list-type:: number
+	- {{video }}
 	- Time Signature: 4/4, 4/4 swing
 	- Progression:
 		- Part: ||: Am | % :||: Dm :||: Am :|| Em | Dm || Am | Am - ||
