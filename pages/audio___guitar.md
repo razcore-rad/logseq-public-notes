@@ -1,5 +1,6 @@
 - [America - A Horse With No Name](https://www.guitarzero2hero.com/song/2555/a-horse-with-no-name-america-guitar-lesson) #song #1.0
   logseq.order-list-type:: number
+  collapsed:: true
 	- {{video https://youtu.be/TJIskQK0SpI}}
 	- Key: Em
 	- Tempo: 124bpm
@@ -21,8 +22,9 @@
 	  D U X U D U D U
 	  ```
 	- Solo Variation
+	  collapsed:: true
 		- ![gz2h-america-a-horse-with-no-name-solo-variation.mp3](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902098791_0.mp3)
-		- ![gz2h-america-a-horse-with-no-name-solo-variation.png](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902127166_0.png){:height 630, :width 731}
+		- ![gz2h-america-a-horse-with-no-name-solo-variation.png](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902127166_0.png)
 - [Bob Marley - Three Little Birds](https://www.justinguitar.com/advanced_search?q=Bob%20Marley%20-%20Three%20Little%20Birds) #song #grade1
   logseq.order-list-type:: number
   collapsed:: true
@@ -293,10 +295,11 @@
 	- ![justinguitar-white-stripes-seven-nation-army.mp3](../assets/justinguitar-white-stripes-seven-nation-army_1722515482034_0.mp3)
 	  tempo:: 100
 	- ![justinguitar-white-stripes-seven-nation-army-1.png](../assets/justinguitar-white-stripes-seven-nation-army-1_1722716183365_0.png)
-- Notes
+- Utilities
+  collapsed:: true
 	- Trim the MuseScore Studio exported images with:
 	  ```sh
-	  mogrify -fuzz 25% -trim -border 100 -bordercolor none +repage *.png
+	  mogrify -fuzz 25% -trim -border 100 -bordercolor white +repage *.png
 	  ```
 - Templates
   collapsed:: true
