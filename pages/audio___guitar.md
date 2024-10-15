@@ -222,6 +222,7 @@
 	  ```
 - [The Doors - Break on Through](https://www.justinguitar.com/songs/the-doors-break-on-through-chords-tabs-guitar-lesson-sg-24) #song #grade2
   logseq.order-list-type:: number
+  collapsed:: true
 	- {{video https://youtu.be/Gi8MlT5JYaE}}
 	- ![justinguitar-the-doors-break-on-through.mp3](../assets/justinguitar-the-doors-break-on-through_1722530529680_0.mp3)
 	  tempo:: 120
