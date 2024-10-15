@@ -39,6 +39,7 @@
 			- ((670cf6e0-03e8-40cd-9828-775d9d5348d5)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf6fa-42f9-4981-8799-10055dcd701c))
 - [Dire Straits - Walk of Life](https://www.justinguitar.com/advanced_search?q=Dire%20Straits%20Walk%20of%20Life) #song #grade1
   logseq.order-list-type:: number
+  collapsed:: true
 	- {{video https://youtu.be/zxsf9yvqA7M}}
 	- Capo 7
 	- Time Signature: 4/4
@@ -48,8 +49,9 @@
 		- Pre-Chorus: ||: A | E :||
 		- Chorus: || E B | E A | E B | A B ||
 		- Arrangement: || Intro | Verse | Pre-Chorus | Chorus | Intro ||
+		  collapsed:: true
 			- ((670cf890-5c10-48d4-800d-0e9d9dcc0463)) ((670cf8c3-f2a3-4b25-8c99-3535224d1c9a)) ((670cf85f-1d8e-4e36-b5d0-a96857643c22))
-- [Elvis Presley - Hound Dog](https://www.justinguitar.com/songs/elvis-presley-hound-dog-chords-tabs-guitar-lesson-bs-103) #song #grade1
+- [Elvis Presley - Hound Dog](https://www.justinguitar.com/advanced_search?q=Elvis%20Presley%20Hound%20Dog) #song #grade1
   logseq.order-list-type:: number
   collapsed:: true
 	- {{video https://youtu.be/Hf9SxtjvA5U}}
@@ -59,6 +61,8 @@
 		- ((670cf6e0-03e8-40cd-9828-775d9d5348d5)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf6fa-42f9-4981-8799-10055dcd701c))
 - [Elvis Presley - I Can't Help Falling in Love with You](https://www.justinguitar.com/advanced_search?q=Elvis%20Presley%20I%20Can%20Help%20Falling%20in%20Love%20with%20You) #song #grade2
   logseq.order-list-type:: number
+  collapsed:: true
+	- {{video https://youtu.be/UL96VuZZnvw}}
 	- Capo: 2
 	- Time Signature: 6/8
 	- Progression
@@ -66,6 +70,7 @@
 		- Verse1: || D  | F\#m | Bm | Bm or Bm/A | F# | D | A | A or A7 | F# | A | Bm | F# ||
 		- Verse2: || D | F\#m | C\#7 | F\#m | C\#7 | F\#m | C\#7 | F\#m | B7 | Em | A7 ||
 		- Arrangement: || Intro | Verse1 | Intro | Verse2 ||
+		  collapsed:: true
 			- ((670cf9e7-4cd7-44f3-b0af-2e365ee24ec0)) ((670cfb74-f033-47ed-98b4-b919fe0f508f)) ((670cfc5c-6184-4096-946d-10a405e15ab5)) ((670cfa8e-9b33-4358-a175-8ecf443ed022)) ((670cfad2-cbe7-46a3-83b1-d79e99de96b9)) ((670cfbe2-2658-4bb4-8ae8-042af351abc1)) ((670cf837-0e07-4990-a0b2-5e775eaf2f13)) ((670cfc99-4bfa-4dfd-b6a6-5a492fe44a32)) ((670cfb28-1598-44d8-9c7b-00216d4c3e64)) ((670cfa43-fddb-4788-9426-7179e62398dc))
 - [Green Day - Good Riddance (Time of Your Life)](https://www.justinguitar.com/songs/green-day-good-riddance-time-of-your-life-chords-tabs-guitar-lesson-sg-066) #song #grade2
   logseq.order-list-type:: number
