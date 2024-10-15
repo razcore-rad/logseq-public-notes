@@ -1,10 +1,12 @@
 - [America - A Horse With No Name](https://www.guitarzero2hero.com/song/2555/a-horse-with-no-name-america-guitar-lesson) #song #1.0
   logseq.order-list-type:: number
+  collapsed:: true
 	- {{video https://youtu.be/TJIskQK0SpI}}
 	- Key: Em
 	- Tempo: 124bpm
 	- Time Signature: 4/4 swing
 	- Progression
+	  collapsed:: true
 		- Standard: ||: Em | Bm11/F# :||
 			- ((670cf4f6-d495-41bc-b566-136589bf467e)) ((670cf4e7-64cc-4d86-9db5-c6f455deaccd))
 		- Variation: ||: Em9 | F\#m7add11 Bm11 :||
@@ -20,6 +22,7 @@
 	  D U X U D U D U
 	  ```
 	- Solo Variation
+	  collapsed:: true
 		- ![gz2h-america-a-horse-with-no-name-solo-variation.mp3](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902098791_0.mp3)
 		- ![gz2h-america-a-horse-with-no-name-solo-variation.png](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902127166_0.png){:height 630, :width 731}
 - [Bob Marley - Three Little Birds](https://www.justinguitar.com/songs/bob-marley-three-little-birds-chords-tabs-guitar-lesson-bs-101) #song #grade1
