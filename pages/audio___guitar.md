@@ -135,10 +135,12 @@
 	- ![justinguitar-nirvana-come-as-you-are-1.png](../assets/justinguitar-nirvana-come-as-you-are-1_1722716250711_0.png)
 - [Pink Floyd - Wish You Were Here](https://www.justinguitar.com/guitar-lessons/wish-you-were-here-riff-for-beginners-b3-808) #riff #grade2
   logseq.order-list-type:: number
-	-
+  collapsed:: true
+	- {{video https://youtu.be/yDY6y8llnA0}}
 	- ![justinguitar-pink-floyd-wish-you-were-here.mp3](../assets/justinguitar-pink-floyd-wish-you-were-here_1722518660407_0.mp3)
 	  tempo:: 80
-	- ![justinguitar-pink-floyd-wish-you-were-here-1.png](../assets/justinguitar-pink-floyd-wish-you-were-here-1_1722716296938_0.png){:height 1050, :width 738}
+	- ![justinguitar-pink-floyd-wish-you-were-here-1.png](../assets/justinguitar-pink-floyd-wish-you-were-here-1_1722716296938_0.png)
+	  collapsed:: true
 		- ((670cff88-304b-4762-8e2f-c0612a6e8e37)) ((670d02a5-e34d-430b-87d0-e1ef542386c0)) ((670cfeb3-8026-4b5e-950e-fb747d9594c8))
 - [Oasis - Wonderwall (Simplified)](https://www.justinguitar.com/songs/oasis-wonderwall-chords-tabs-guitar-lesson-bs-805) #song #grade2
   logseq.order-list-type:: number
