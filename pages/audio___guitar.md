@@ -295,6 +295,8 @@
 	- ![justinguitar-white-stripes-seven-nation-army.mp3](../assets/justinguitar-white-stripes-seven-nation-army_1722515482034_0.mp3)
 	  tempo:: 100
 	- ![justinguitar-white-stripes-seven-nation-army-1.png](../assets/justinguitar-white-stripes-seven-nation-army-1_1722716183365_0.png)
+- Notes
+	- `convert -fuzz 25% -trim -border 100 -bordercolor none +repage`
 - Templates
   collapsed:: true
 	- song-entry
