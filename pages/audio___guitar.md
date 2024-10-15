@@ -235,8 +235,9 @@
 	- Progression: ||: Am :||: Em :||
 	  collapsed:: true
 		- ((670d00cd-a0a9-4524-bdcc-218dd9be864f)) ((670cf4f6-d495-41bc-b566-136589bf467e))
-- [Theme - Happy Birthday](https://www.justinguitar.com/guitar-lessons/happy-birthday-finger-style-bg-1105) #fingerstyle #grade2
+- [Theme - Happy Birthday](https://www.justinguitar.com/advanced_search?q=Happy%20Birthday) #fingerstyle #grade2
   logseq.order-list-type:: number
+	- {{video https://youtu.be/P2Y4n9H55wI}}
 	- ![justinguitar-happy-birthday.mp3](../assets/justinguitar-happy-birthday_1722528239477_0.mp3)
 	  tempo:: 60
 	- ![justinguitar-theme-happy-birthday-1.png](../assets/justinguitar-theme-happy-birthday-1_1722716454429_0.png){:height 477, :width 862}
