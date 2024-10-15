@@ -203,11 +203,13 @@
 	- Progression: ||: Am | C | D | F | Am | E | Am | E :||: Am | C | D | F | Am | C | E | E | Am | C | D | F | Am | E :|| Am ||
 	  collapsed:: true
 		- ((670d00cd-a0a9-4524-bdcc-218dd9be864f)) ((670d0af0-c9ab-4cf6-b2a8-9fd9159f87fe)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf6fa-42f9-4981-8799-10055dcd701c)) ((670d0b3f-9d81-44c2-8ff7-c31db6691826))
-- [The Cranberries - Zombie](https://www.justinguitar.com/songs/the-cranberries-zombie-chords-tabs-guitar-lesson-sg-141) #song #grade1
+- [The Cranberries - Zombie](https://www.justinguitar.com/advanced_search?q=The%20Cranberries%20-%20Zombie) #song #grade1
   logseq.order-list-type:: number
+  collapsed:: true
 	- {{video https://youtu.be/gGblyC00CZM}}
 	- Time Signature: 4/4
 	- Progression: ||: Em | Em/C | Gadd13 | A9sus4/F# :|| or ||: E5 | C5 | G5 | G5/F# :||
+	  collapsed:: true
 		- ((670d0cde-5337-4866-b54b-13985385264b)) ((670d0af0-c9ab-4cf6-b2a8-9fd9159f87fe)) ((670d0df5-d5e1-48f2-93e4-c8c2c0154800)) ((670d0d8a-7751-4c5a-b530-fe73ffcf8109)) ((670cf4f6-d495-41bc-b566-136589bf467e)) ((670d0bbb-dad1-45d8-a3af-44c836d4d1d4)) ((670d0e22-2373-4d76-9069-193ae823d08a)) ((670d0e90-8fe5-4e96-820d-f20a50f4a230)) ((670d0c51-edd3-4650-b717-c50fe5a2106a))
 	- Solo: ||: Em | Em | C | C :||
 	- Strums
@@ -220,9 +222,10 @@
 	  ```
 - [The Doors - Break on Through](https://www.justinguitar.com/songs/the-doors-break-on-through-chords-tabs-guitar-lesson-sg-24) #song #grade2
   logseq.order-list-type:: number
+	- {{video https://youtu.be/Gi8MlT5JYaE}}
 	- ![justinguitar-the-doors-break-on-through.mp3](../assets/justinguitar-the-doors-break-on-through_1722530529680_0.mp3)
 	  tempo:: 120
-	- ![justinguitar-the-doors-break-on-through-1.png](../assets/justinguitar-the-doors-break-on-through-1_1722716656220_0.png){:height 485, :width 799}
+	- ![justinguitar-the-doors-break-on-through-1.png](../assets/justinguitar-the-doors-break-on-through-1_1722716656220_0.png)
 - [The Weekend - Call Out My Name](https://www.justinguitar.com/songs/the-weeknd-call-out-my-name-chords-tabs-guitar-lesson-sg-26) #song #grade1
   logseq.order-list-type:: number
 	- Time Signature: 6/8
