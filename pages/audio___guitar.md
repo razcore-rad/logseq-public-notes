@@ -59,7 +59,7 @@
 	- Progression: ||: A | % | % | % | D | % | A | % | E | D | A | A - :||
 	  collapsed:: true
 		- ((670cf6e0-03e8-40cd-9828-775d9d5348d5)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf6fa-42f9-4981-8799-10055dcd701c))
-- [Elvis Presley - I Can't Help Falling in Love with You](https://www.justinguitar.com/advanced_search?q=Elvis%20Presley%20I%20Can%20Help%20Falling%20in%20Love%20with%20You) #song #grade2
+- [Elvis Presley - I Can't Help Falling in Love with You](https://www.justinguitar.com/advanced_search?q=Elvis%20Presley%20-%20I%20Can%20Help%20Falling%20in%20Love%20with%20You) #song #grade2
   logseq.order-list-type:: number
   collapsed:: true
 	- {{video https://youtu.be/UL96VuZZnvw}}
@@ -103,6 +103,7 @@
 	- ![justinguitar-beginner-blues-solo-1.png](../assets/justinguitar-beginner-blues-solo-1_1724402019911_0.png)
 - [Metallica - Enter Sandman](https://www.justinguitar.com/advanced_search?q=Metallica%20-%20Enter%20Sandman) #riff #grade2
   logseq.order-list-type:: number
+  collapsed:: true
 	- {{video https://youtu.be/oIEyQK7McGk}}
 	- ![justinguitar-metallica-enter-sandman-80.mp3](../assets/justinguitar-metallica-enter-sandman-80_1722674070529_0.mp3)
 	  tempo:: 80
@@ -111,6 +112,7 @@
 	- ![justinguitar-metallica-enter-sandman-1.png](../assets/justinguitar-metallica-enter-sandman-1_1722716736792_0.png)
 - [Neil Young - Cortez the Killer](https://www.justinguitar.com/songs/neil-young-cortez-the-killer-easy-chords-tabs-guitar-lesson-bs-290) #song #grade1
   logseq.order-list-type:: number
+	- {{video https://youtu.be/h-riy-mHKIs}}
 	- Time: 4/4
 	- Progression: || Em | D ||: Am :||
 		- ((670d00cd-a0a9-4524-bdcc-218dd9be864f)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf4f6-d495-41bc-b566-136589bf467e))
