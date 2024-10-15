@@ -95,8 +95,9 @@
 		- Arrangement: || (4/4) Part (x3) || (4/4 swing) Part (x3) || Part ||
 		  collapsed:: true
 			- ((670d00cd-a0a9-4524-bdcc-218dd9be864f)) ((670d00f4-ea88-41de-bd14-1140bf88e34c)) ((670cf4f6-d495-41bc-b566-136589bf467e))
-- [JustinGuitar - Beginner Blues Solo](https://www.justinguitar.com/guitar-lessons/beginner-blues-solo-bg-1304) #song #grade2
+- [JustinGuitar - Beginner Blues Solo](https://www.justinguitar.com/advanced_search?q=JustinGuitar%20-%20Beginner%20Blues%20Solo) #song #grade2
   logseq.order-list-type:: number
+  collapsed:: true
 	- {{video https://youtu.be/6iLluqLwRAA}}
 	- ![justinguitar-beginner-blues-solo.mp3](../assets/justinguitar-beginner-blues-solo_1724402044131_0.mp3)
 	- ![justinguitar-beginner-blues-solo-1.png](../assets/justinguitar-beginner-blues-solo-1_1724402019911_0.png)
