@@ -195,13 +195,17 @@
 	- ![justinguitar-rithcie-valens-la-bamba.mp3](../assets/justinguitar-rithcie-valens-la-bamba_1722520909781_0.mp3)
 	  tempo:: 100
 	- ![justinguitar-rithcie-valens-la-bamba-1.png](../assets/justinguitar-rithcie-valens-la-bamba-1_1722716382741_0.png){:height 401, :width 693}
-- [The Animals - House of the Rising Sun](https://www.justinguitar.com/songs/the-animals-house-of-the-rising-sun-chords-tabs-guitar-lesson-bs-609#learn-more) #song #grade2
+- [The Animals - House of the Rising Sun](https://www.justinguitar.com/advanced_search?q=The%20Animals%20-%20House%20of%20the%20Rising%20Sun) #song #grade2
   logseq.order-list-type:: number
+  collapsed:: true
+	- {{video https://youtu.be/sar9mMi79DE}}
 	- Time Signature: 6/8
 	- Progression: ||: Am | C | D | F | Am | E | Am | E :||: Am | C | D | F | Am | C | E | E | Am | C | D | F | Am | E :|| Am ||
+	  collapsed:: true
 		- ((670d00cd-a0a9-4524-bdcc-218dd9be864f)) ((670d0af0-c9ab-4cf6-b2a8-9fd9159f87fe)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf6fa-42f9-4981-8799-10055dcd701c)) ((670d0b3f-9d81-44c2-8ff7-c31db6691826))
 - [The Cranberries - Zombie](https://www.justinguitar.com/songs/the-cranberries-zombie-chords-tabs-guitar-lesson-sg-141) #song #grade1
   logseq.order-list-type:: number
+	- {{video https://youtu.be/gGblyC00CZM}}
 	- Time Signature: 4/4
 	- Progression: ||: Em | Em/C | Gadd13 | A9sus4/F# :|| or ||: E5 | C5 | G5 | G5/F# :||
 		- ((670d0cde-5337-4866-b54b-13985385264b)) ((670d0af0-c9ab-4cf6-b2a8-9fd9159f87fe)) ((670d0df5-d5e1-48f2-93e4-c8c2c0154800)) ((670d0d8a-7751-4c5a-b530-fe73ffcf8109)) ((670cf4f6-d495-41bc-b566-136589bf467e)) ((670d0bbb-dad1-45d8-a3af-44c836d4d1d4)) ((670d0e22-2373-4d76-9069-193ae823d08a)) ((670d0e90-8fe5-4e96-820d-f20a50f4a230)) ((670d0c51-edd3-4650-b717-c50fe5a2106a))
