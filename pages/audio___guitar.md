@@ -72,10 +72,12 @@
 		- Arrangement: || Intro | Verse1 | Intro | Verse2 ||
 		  collapsed:: true
 			- ((670cf9e7-4cd7-44f3-b0af-2e365ee24ec0)) ((670cfb74-f033-47ed-98b4-b919fe0f508f)) ((670cfc5c-6184-4096-946d-10a405e15ab5)) ((670cfa8e-9b33-4358-a175-8ecf443ed022)) ((670cfad2-cbe7-46a3-83b1-d79e99de96b9)) ((670cfbe2-2658-4bb4-8ae8-042af351abc1)) ((670cf837-0e07-4990-a0b2-5e775eaf2f13)) ((670cfc99-4bfa-4dfd-b6a6-5a492fe44a32)) ((670cfb28-1598-44d8-9c7b-00216d4c3e64)) ((670cfa43-fddb-4788-9426-7179e62398dc))
-- [Green Day - Good Riddance (Time of Your Life)](https://www.justinguitar.com/songs/green-day-good-riddance-time-of-your-life-chords-tabs-guitar-lesson-sg-066) #song #grade2
+- [Green Day - Good Riddance (Time of Your Life)](https://www.justinguitar.com/advanced_search?q=Green%20Day%20-%20Good%20Riddance%20(Time%20of%20Your%20Life)) #song #grade2
   logseq.order-list-type:: number
+  collapsed:: true
 	- Time Signature: 4/4
 	- Progression: ||: G | G | Cadd9 | Dsus4/E :||: Em7 | Dsus4/E | Cadd9 | G :||: Em | G :|| Em7 | Dsus4/E | G ||
+	  collapsed:: true
 		- ((670cff09-97b6-4504-a73f-687354419c65)) ((670cffb6-259e-4974-adda-a4991841aa8e)) ((670cff88-304b-4762-8e2f-c0612a6e8e37)) ((670cfeb3-8026-4b5e-950e-fb747d9594c8))
 	- Strums with little finger on string 1 to mute it.
 	  ```
