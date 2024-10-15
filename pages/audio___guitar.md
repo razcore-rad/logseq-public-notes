@@ -27,7 +27,6 @@
 		- ![gz2h-america-a-horse-with-no-name-solo-variation.png](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902127166_0.png){:height 630, :width 731}
 - [Bob Marley - Three Little Birds](https://www.justinguitar.com/songs/bob-marley-three-little-birds-chords-tabs-guitar-lesson-bs-101) #song #grade1
   logseq.order-list-type:: number
-  collapsed:: true
 	- {{video https://youtu.be/UY3YEMMFfSs}}
 	- Time Signature: 4/4
 	- Progression
@@ -58,7 +57,7 @@
 	- Progression: ||: A | % | % | % | D | % | A | % | E | D | A | A - :||
 	  collapsed:: true
 		- ((670cf6e0-03e8-40cd-9828-775d9d5348d5)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf6fa-42f9-4981-8799-10055dcd701c))
-- [Elvis Presley - I Can't Help Falling in Love with You](https://www.justinguitar.com/songs/elvis-presley-i-can-t-help-falling-in-love-with-you-chords-tabs-guitar-lesson-bs-605) #song #grade2
+- [Elvis Presley - I Can't Help Falling in Love with You](https://www.justinguitar.com/advanced_search?q=Elvis%20Presley%20I%20Can%20Help%20Falling%20in%20Love%20with%20You) #song #grade2
   logseq.order-list-type:: number
 	- Capo: 2
 	- Time Signature: 6/8
