@@ -25,7 +25,7 @@
 	  collapsed:: true
 		- ![gz2h-america-a-horse-with-no-name-solo-variation.mp3](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902098791_0.mp3)
 		- ![gz2h-america-a-horse-with-no-name-solo-variation.png](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902127166_0.png){:height 630, :width 731}
-- [Bob Marley - Three Little Birds](https://www.justinguitar.com/advanced_search?q=Bob%20Marley%20Three%20Little%20Birds) #song #grade1
+- [Bob Marley - Three Little Birds](https://www.justinguitar.com/advanced_search?q=Bob%20Marley%20-%20Three%20Little%20Birds) #song #grade1
   logseq.order-list-type:: number
   collapsed:: true
 	- {{video https://youtu.be/UY3YEMMFfSs}}
@@ -37,7 +37,7 @@
 		- Arrangement: || Chorus | Intro | Chorus | Verse ||
 		  collapsed:: true
 			- ((670cf6e0-03e8-40cd-9828-775d9d5348d5)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf6fa-42f9-4981-8799-10055dcd701c))
-- [Dire Straits - Walk of Life](https://www.justinguitar.com/advanced_search?q=Dire%20Straits%20Walk%20of%20Life) #song #grade1
+- [Dire Straits - Walk of Life](https://www.justinguitar.com/advanced_search?q=Dire%20Straits%20-%20Walk%20of%20Life) #song #grade1
   logseq.order-list-type:: number
   collapsed:: true
 	- {{video https://youtu.be/zxsf9yvqA7M}}
@@ -51,7 +51,7 @@
 		- Arrangement: || Intro | Verse | Pre-Chorus | Chorus | Intro ||
 		  collapsed:: true
 			- ((670cf890-5c10-48d4-800d-0e9d9dcc0463)) ((670cf8c3-f2a3-4b25-8c99-3535224d1c9a)) ((670cf85f-1d8e-4e36-b5d0-a96857643c22))
-- [Elvis Presley - Hound Dog](https://www.justinguitar.com/advanced_search?q=Elvis%20Presley%20Hound%20Dog) #song #grade1
+- [Elvis Presley - Hound Dog](https://www.justinguitar.com/advanced_search?q=Elvis%20Presley%20-%20Hound%20Dog) #song #grade1
   logseq.order-list-type:: number
   collapsed:: true
 	- {{video https://youtu.be/Hf9SxtjvA5U}}
