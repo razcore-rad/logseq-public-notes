@@ -35,10 +35,12 @@
 		- Chorus: ||: A | % | D | A :||
 		- Verse: ||: A | E | A | D | A | E | D | A :||
 		- Arrangement: || Chorus | Intro | Chorus | Verse ||
+		  collapsed:: true
 			- ((670cf6e0-03e8-40cd-9828-775d9d5348d5)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf6fa-42f9-4981-8799-10055dcd701c))
 - [Dire Straits - Walk of Life](https://www.justinguitar.com/songs/dire-straits-walk-of-life-chords-tabs-guitar-lesson-bs-104) #song #grade1
   logseq.order-list-type:: number
-	- {{video https://www.youtube.com/watch?v=zxsf9yvqA7M}}
+  collapsed:: true
+	- {{video https://youtu.be/zxsf9yvqA7M}}
 	- Capo 7
 	- Time Signature: 4/4
 	- Progression
@@ -50,6 +52,7 @@
 			- ((670cf890-5c10-48d4-800d-0e9d9dcc0463)) ((670cf8c3-f2a3-4b25-8c99-3535224d1c9a)) ((670cf85f-1d8e-4e36-b5d0-a96857643c22))
 - [Elvis Presley - Hound Dog](https://www.justinguitar.com/songs/elvis-presley-hound-dog-chords-tabs-guitar-lesson-bs-103) #song #grade1
   logseq.order-list-type:: number
+	- {{video https://youtu.be/Hf9SxtjvA5U}}
 	- Time Signature: 4/4
 	- Progression: ||: A | % | % | % | D | % | A | % | E | D | A | A - :||
 		- ((670cf6e0-03e8-40cd-9828-775d9d5348d5)) ((670cf740-73e9-4631-baf4-dd8bde5a6b99)) ((670cf6fa-42f9-4981-8799-10055dcd701c))
