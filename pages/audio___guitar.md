@@ -296,7 +296,8 @@
 	  tempo:: 100
 	- ![justinguitar-white-stripes-seven-nation-army-1.png](../assets/justinguitar-white-stripes-seven-nation-army-1_1722716183365_0.png)
 - Notes
-	- ```sh
+	- Trim the MuseScore Studio exported images with:
+	  ```sh
 	  for $p in (ls *.png | get name) { mogrify -fuzz 25% -trim -border 100 -bordercolor none +repage $p }
 	  ```
 - Templates
