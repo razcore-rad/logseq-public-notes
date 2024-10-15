@@ -101,8 +101,9 @@
 	- {{video https://youtu.be/6iLluqLwRAA}}
 	- ![justinguitar-beginner-blues-solo.mp3](../assets/justinguitar-beginner-blues-solo_1724402044131_0.mp3)
 	- ![justinguitar-beginner-blues-solo-1.png](../assets/justinguitar-beginner-blues-solo-1_1724402019911_0.png)
-- [Metallica - Enter Sandman](https://www.justinguitar.com/guitar-lessons/enter-sandman-bg-1204) #riff #grade2
+- [Metallica - Enter Sandman](https://www.justinguitar.com/advanced_search?q=Metallica%20-%20Enter%20Sandman) #riff #grade2
   logseq.order-list-type:: number
+	- {{video https://youtu.be/oIEyQK7McGk}}
 	- ![justinguitar-metallica-enter-sandman-80.mp3](../assets/justinguitar-metallica-enter-sandman-80_1722674070529_0.mp3)
 	  tempo:: 80
 	- ![justinguitar-metallica-enter-sandman-100.mp3](../assets/justinguitar-metallica-enter-sandman-100_1722674078527_0.mp3)
