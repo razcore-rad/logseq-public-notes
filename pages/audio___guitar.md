@@ -27,7 +27,6 @@
 		- ![gz2h-america-a-horse-with-no-name-solo-variation.png](../assets/gz2h-america-a-horse-with-no-name-solo-variation_1728902127166_0.png)
 - [Bob Marley - Three Little Birds](https://www.justinguitar.com/advanced_search?q=Bob%20Marley%20-%20Three%20Little%20Birds) #song #grade1
   logseq.order-list-type:: number
-  collapsed:: true
 	- {{video https://youtu.be/UY3YEMMFfSs}}
 	- Time Signature: 4/4
 	- Progression
