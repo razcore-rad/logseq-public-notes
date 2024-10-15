@@ -244,6 +244,7 @@
 	- ![justinguitar-theme-happy-birthday-1.png](../assets/justinguitar-theme-happy-birthday-1_1722716454429_0.png)
 - [Theme - Peter Gunn](https://www.justinguitar.com/advanced_search?q=Theme%20-%20Peter%20Gunn) #riff #grade1
   logseq.order-list-type:: number
+  collapsed:: true
 	- {{video https://youtu.be/FZ9mkji_8PU}}
 	- ![justinguitar-peter-gunn-theme.mp3](../assets/justinguitar-peter-gunn-theme_1722514045790_0.mp3)
 	  tempo:: 80
