@@ -128,11 +128,14 @@
 	  ```
 - [Nirvana - Come as You Are](https://www.justinguitar.com/advanced_search?q=Nirvana%20-%20Come%20as%20You%20Are) #riff #grade1
   logseq.order-list-type:: number
+  collapsed:: true
+	- {{video https://youtu.be/0EVHt__Ktnw}}
 	- ![justinguitar-nirvana-come-as-you-are.mp3](../assets/justinguitar-nirvana-come-as-you-are_1722516543322_0.mp3)
 	  tempo:: 100
 	- ![justinguitar-nirvana-come-as-you-are-1.png](../assets/justinguitar-nirvana-come-as-you-are-1_1722716250711_0.png)
 - [Pink Floyd - Wish You Were Here](https://www.justinguitar.com/guitar-lessons/wish-you-were-here-riff-for-beginners-b3-808) #riff #grade2
   logseq.order-list-type:: number
+	-
 	- ![justinguitar-pink-floyd-wish-you-were-here.mp3](../assets/justinguitar-pink-floyd-wish-you-were-here_1722518660407_0.mp3)
 	  tempo:: 80
 	- ![justinguitar-pink-floyd-wish-you-were-here-1.png](../assets/justinguitar-pink-floyd-wish-you-were-here-1_1722716296938_0.png){:height 1050, :width 738}
