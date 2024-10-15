@@ -296,11 +296,12 @@
 	  tempo:: 100
 	- ![justinguitar-white-stripes-seven-nation-army-1.png](../assets/justinguitar-white-stripes-seven-nation-army-1_1722716183365_0.png)
 - Templates
+  collapsed:: true
 	- song-entry
 	  template:: song-entry
 	  template-including-parent:: false
 		- [Artists - Title]()
-			-
+			- {{video }}
 			- Key:
 			- Tempo:
 			- Time Signature:
