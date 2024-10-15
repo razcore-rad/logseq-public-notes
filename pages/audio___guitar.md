@@ -288,8 +288,10 @@
 	  D   d u D   d u
 	  B   d u B u d u
 	  ```
-- [White Stripes - Seven Nation Army](https://www.justinguitar.com/guitar-lessons/seven-nation-army-b2-309) #riff #grade1
+- [White Stripes - Seven Nation Army](https://www.justinguitar.com/advanced_search?q=White%20Stripes%20-%20Seven%20Nation%20Army) #riff #grade1
   logseq.order-list-type:: number
+  collapsed:: true
+	- {{video https://youtu.be/2LEO5xc9rEA}}
 	- ![justinguitar-white-stripes-seven-nation-army.mp3](../assets/justinguitar-white-stripes-seven-nation-army_1722515482034_0.mp3)
 	  tempo:: 100
 	- ![justinguitar-white-stripes-seven-nation-army-1.png](../assets/justinguitar-white-stripes-seven-nation-army-1_1722716183365_0.png)
@@ -298,6 +300,7 @@
 	  template:: song-entry
 	  template-including-parent:: false
 		- [Artists - Title]()
+			-
 			- Key:
 			- Tempo:
 			- Time Signature:
