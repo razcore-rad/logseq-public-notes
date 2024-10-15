@@ -268,8 +268,10 @@
 		- G: I = G7, IV = C7, V = D7
 		  collapsed:: true
 			- ((670d107e-0c42-45ea-9c4e-81fa862d61f3)) ((670d0ff2-225e-4fde-bafd-98b81ef6bccd)) ((670d1061-ebc4-4a0b-aa3f-dea8d7f09739))
-- [Tom Waits - Chocolate Jesus](https://www.justinguitar.com/songs/tom-waits-chocolate-jesus-chords-tabs-guitar-lesson-bs-222) #song #grade1
+- [Tom Waits - Chocolate Jesus](https://www.justinguitar.com/advanced_search?q=Tom%20Waits%20-%20Chocolate%20Jesus) #song #grade1
   logseq.order-list-type:: number
+  collapsed:: true
+	- {{video https://youtu.be/yIlg17yyu-A}}
 	- Capo: 6
 	- Time Signature: 4/4
 	- Progression
@@ -278,6 +280,7 @@
 		- Chorus2: || D\#m | % | % | G\#m | % | D\#m | A# | D\#m ||
 		- Bridge: || G\#m | % | % ||: D\#m :||: G\#m :|| A# | % | % ||
 		- Arrangement: || Verse | Chorus1 | Bridge | Chorus2 ||
+		  collapsed:: true
 			- ((670d11f1-e9e8-4c63-a930-db6e0fc383e4)) ((670d116b-5d7c-4a93-a62a-5a86982c3493)) ((670d11af-e1ea-48ca-be98-49d7ffc7f92a))
 	- Strums
 	  ```
